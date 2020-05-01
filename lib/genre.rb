@@ -29,7 +29,7 @@ class Genre
 
   def songs
     @songs
-    binding.pry 
+    binding.pry
   end
 
 
