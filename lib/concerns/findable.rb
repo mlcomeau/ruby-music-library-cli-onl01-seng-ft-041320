@@ -1,2 +1,2 @@
-module Findable 
-end 
+module Findable
+end
