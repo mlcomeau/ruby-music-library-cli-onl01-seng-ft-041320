@@ -3,8 +3,8 @@ class MusicLibraryController
     MusicImporter.new(path).import
   end
 
-  def call 
+  def call
     puts "Welcome"
-  end 
+  end
 
 end
